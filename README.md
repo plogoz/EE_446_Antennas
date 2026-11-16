@@ -1,2 +1,2 @@
 # EE_446_Antennas
-Mini project Vivalid antenna
+Vivaldi antenna project 2026
